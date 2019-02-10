@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fjsh-rpc-client" />
+        <module name="fjsh-rpc-client-demo" />
+        <module name="fjsh-rpc-common" />
+        <module name="fjsh-rpc-server" />
+        <module name="fjsh-rpc-service" />
+        <module name="fjsh-rpc-springboot-service-impl" />
+        <module name="fjsh-rpc-statistic" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fjsh-parent" target="1.5" />
+      <module name="fjsh-rpc-client" target="1.5" />
+      <module name="fjsh-rpc-client-demo" target="1.5" />
+      <module name="fjsh-rpc-common" target="1.5" />
+      <module name="fjsh-rpc-server" target="1.5" />
+      <module name="fjsh-rpc-service" target="1.5" />
+      <module name="fjsh-rpc-springboot-service-impl" target="1.5" />
+      <module name="fjsh-rpc-statistic" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

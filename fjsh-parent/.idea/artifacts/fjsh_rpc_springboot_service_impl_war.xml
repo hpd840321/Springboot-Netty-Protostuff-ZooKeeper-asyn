@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fjsh-rpc-springboot-service-impl:war">
+    <output-path>$PROJECT_DIR$/fjsh-rpc-springboot-service-impl/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>fjsh-rpc-springboot-service-impl</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="fjsh-rpc-springboot-service-impl-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="fjsh-rpc-springboot-service-impl:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fjsh-rpc-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fjsh-rpc-client-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fjsh-rpc-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fjsh-rpc-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fjsh-rpc-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fjsh-rpc-springboot-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fjsh-rpc-statistic" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

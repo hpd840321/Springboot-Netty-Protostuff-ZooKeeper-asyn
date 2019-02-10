@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fjsh-parent.iml" filepath="$PROJECT_DIR$/fjsh-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fjsh-rpc-client/fjsh-rpc-client.iml" filepath="$PROJECT_DIR$/fjsh-rpc-client/fjsh-rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fjsh-rpc-client-demo/fjsh-rpc-client-demo.iml" filepath="$PROJECT_DIR$/fjsh-rpc-client-demo/fjsh-rpc-client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fjsh-rpc-common/fjsh-rpc-common.iml" filepath="$PROJECT_DIR$/fjsh-rpc-common/fjsh-rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fjsh-rpc-server/fjsh-rpc-server.iml" filepath="$PROJECT_DIR$/fjsh-rpc-server/fjsh-rpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fjsh-rpc-service/fjsh-rpc-service.iml" filepath="$PROJECT_DIR$/fjsh-rpc-service/fjsh-rpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fjsh-rpc-springboot-service-impl/fjsh-rpc-springboot-service-impl.iml" filepath="$PROJECT_DIR$/fjsh-rpc-springboot-service-impl/fjsh-rpc-springboot-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fjsh-rpc-statistic/fjsh-rpc-statistic.iml" filepath="$PROJECT_DIR$/fjsh-rpc-statistic/fjsh-rpc-statistic.iml" />
+    </modules>
+  </component>
+</project>

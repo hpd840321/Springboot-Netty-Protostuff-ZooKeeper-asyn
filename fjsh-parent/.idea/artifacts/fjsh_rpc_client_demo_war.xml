@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fjsh-rpc-client-demo:war">
+    <output-path>$PROJECT_DIR$/fjsh-rpc-client-demo/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>fjsh-rpc-client-demo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="fjsh-rpc-client.war">
+      <element id="artifact" artifact-name="fjsh-rpc-client-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
